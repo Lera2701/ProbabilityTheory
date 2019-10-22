@@ -1,0 +1,7 @@
+C:\Users\Valeria\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Valeria\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Valeria\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Valeria\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\OppTh.csprojAssemblyReference.cache
+C:\Users\Valeria\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\OppTh.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Valeria\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
